@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amira Ben Mbarek</h1>
-<h3 align="center">Computer science engineering student at ESPRIT.</h3>
+<h3 align="center">Mobile development | Computer science engineering student at ESPRIT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirabenmbarek&label=Profile%20views&color=0e75b6&style=flat" alt="amirabenmbarek" /> </p>
 
